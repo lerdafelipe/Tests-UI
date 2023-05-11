@@ -7,7 +7,13 @@ const Challenges = [
     img: '/src/assets/Cards/QR.png',
     tailwind: true,
     href: '/QR-code'
-  }
+  },{
+    id: 2,
+    title: 'Profile Card',
+    img: '/src/assets/Cards/profileCard.png',
+    tailwind: true,
+    href: '/Profile-Card'
+  },
 ]
 
 const CardList = () => {
